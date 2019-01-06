@@ -1,7 +1,6 @@
 # messing-with-music
 Projects to learn python
 
-
 Run language model example with
 
     cd python
